@@ -23,7 +23,6 @@ malaysia.com:443#MyCF-arcx优选域名malaysia.com:443
 russia.com:443#MyCF-arcx优选域名russia.com:443
 shopify.com:443#MyCF-arcx优选域名shopify:443
 time.is:443#MyCF-arcx优选域名time.is:443
-visa.cn:443#MyCF-arcx优选域名visa.cn:443
 visa.com:443#MyCF-arcx优选域名visa.com:443
 visa.com:8443#MyCF-arcx优选域名visa.com:8443
 visa.com.sg:2087#MyCF-arcx优选域名visa.com.sg:2087
