@@ -1,15 +1,3 @@
-104.16.0.0#MyCF-arcx_YXIP段_104.16.0.0
-104.17.0.0#MyCF-arcx_YXIP段_104.17.0.0
-104.18.1.0#MyCF-arcx_YXIP段_104.18.1.0
-104.19.0.0#MyCF-arcx_YXIP段_104.19.0.0
-104.20.0.0#MyCF-arcx_YXIP段_104.20.0.0
-104.21.0.0#MyCF-arcx_YXIP段_104.21.0.0
-104.22.0.0#MyCF-arcx_YXIP段_104.22.0.0
-104.23.0.0#MyCF-arcx_YXIP段_104.23.100.0
-104.24.0.0#MyCF-arcx_YXIP段_104.24.0.0
-104.25.0.0#MyCF-arcx_YXIP段_104.25.0.0
-104.26.0.0#MyCF-arcx_YXIP段_104.26.0.0
-104.27.0.0#MyCF-arcx_YXIP段_104.27.0.0
 cis.visa.com:2053#My-cfnatyxip-cfautoyxip-arcx优选域名cis.visa.com:2053
 csgo.com:443#My-cfnatyxip-cfautoyxip-arcx优选域名csgo.com:443
 gur.gov.ua:443#My-cfnatyxip-cfautoyxip-arcx优选域名gur.gov.ua:443
